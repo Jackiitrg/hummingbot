@@ -11,7 +11,7 @@ Copy and paste the commands for your operating system into terminal.
 - Supported versions: 16.04 LTS, 18.04 LTS, 19.04
 
 ```
-wget https://raw.githubusercontent.com/CoinAlpha/hummingbot/development/installation/install-from-source/install-source-ubuntu.sh
+wget https://raw.githubusercontent.com/Jackiitrg/hummingbot/development/installation/install-from-source/install-source-ubuntu.sh
 chmod a+x install-source-ubuntu.sh
 ./install-source-ubuntu.sh
 ```
@@ -21,7 +21,7 @@ chmod a+x install-source-ubuntu.sh
 - Supported version: Debian GNU/Linux 9
 
 ```
-wget https://raw.githubusercontent.com/CoinAlpha/hummingbot/development/installation/install-from-source/install-source-debian.sh
+wget https://raw.githubusercontent.com/Jackiitrg/hummingbot/development/installation/install-from-source/install-source-debian.sh
 chmod a+x install-source-debian.sh
 ./install-source-debian.sh
 ```
@@ -31,7 +31,7 @@ chmod a+x install-source-debian.sh
 - Supported version: 7
 
 ```
-wget https://raw.githubusercontent.com/CoinAlpha/hummingbot/development/installation/install-from-source/install-source-centos.sh
+wget https://raw.githubusercontent.com/Jackiitrg/hummingbot/development/installation/install-from-source/install-source-centos.sh
 chmod a+x install-source-centos.sh
 ./install-source-centos.sh
 ```
@@ -39,14 +39,14 @@ chmod a+x install-source-centos.sh
 ## MacOS Installation
 
 ```
-curl https://raw.githubusercontent.com/CoinAlpha/hummingbot/development/installation/install-from-source/install-source-macOS.sh -o install-source-macOS.sh
+curl https://raw.githubusercontent.com/Jackiitrg/hummingbot/development/installation/install-from-source/install-source-macOS.sh -o install-source-macOS.sh
 chmod a+x install-source-macOS.sh
 ./install-source-macOS.sh
 ```
 
 ## Windows Installation
 
-Install [required applications](https://github.com/CoinAlpha/hummingbot/blob/development/documentation/docs/installation/source/windows.md) before using the script the first time.
+Install [required applications](https://github.com/Jackiitrg/hummingbot/blob/development/documentation/docs/installation/source/windows.md) before using the script the first time.
 
 ```
 cd ~
