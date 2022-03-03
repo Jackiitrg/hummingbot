@@ -50,7 +50,7 @@ Install [required applications](https://github.com/Jackiitrg/hummingbot/blob/dev
 
 ```
 cd ~
-curl https://raw.githubusercontent.com/CoinAlpha/hummingbot/development/installation/install-from-source/install-source-windows.sh -o install-source-windows.sh
+curl https://raw.githubusercontent.com/Jackiitrg/hummingbot/development/installation/install-from-source/install-source-windows.sh -o install-source-windows.sh
 chmod a+x install-source-windows.sh
 ./install-source-windows.sh
 ```
@@ -59,7 +59,7 @@ chmod a+x install-source-windows.sh
 
 ```
 cd ~
-curl https://raw.githubusercontent.com/CoinAlpha/hummingbot/development/installation/install-from-source/install-source-ubuntu.sh -o install-source-ubuntu.sh
+curl https://raw.githubusercontent.com/Jackiitrg/hummingbot/development/installation/install-from-source/install-source-ubuntu.sh -o install-source-ubuntu.sh
 chmod a+x install-source-ubuntu.sh
 ./install-source-ubuntu.sh
 ```
@@ -71,7 +71,7 @@ chmod a+x install-source-ubuntu.sh
 The `update.sh` script updates Hummingbot to the latest version. Run the following commands from the root folder:
 
 ```
-wget https://raw.githubusercontent.com/CoinAlpha/hummingbot/development/installation/install-from-source/update.sh
+wget https://raw.githubusercontent.com/Jackiitrg/hummingbot/development/installation/install-from-source/update.sh
 chmod a+x update.sh
 ./update.sh
 ```
